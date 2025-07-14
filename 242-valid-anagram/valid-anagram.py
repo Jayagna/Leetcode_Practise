@@ -1,11 +1,15 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        d1=defaultdict(int)
-        d2=defaultdict(int)
+        if len(s) != len(t):
+            return False
 
-        for i in s:
-            d1[i]+=1
-        for j in t:
-            d2[j]+=1
+        CountS , CountT = {},{}
         
-        return True if d1==d2 else False
+        for i in range(len(s)):
+            CountS[s[i]] = 1 + CountS.get(s[i],0) 
+            CountT[t[i]] = 1 + CountT.get(t[i],0)
+        
+        for j in CountS:
+            if CountS[j] != CountT.get(j,0):
+                return False
+        return True
