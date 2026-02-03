@@ -4,11 +4,15 @@ class Solution(object):
         :type nums: List[int]
         :rtype: None Do not return anything, modify nums in-place instead.
         """
-        l = 0
-        for j in range(2):
-            for i in range(len(nums)):
-                if (nums[i] == j):
-                    nums[i],nums[l] = nums[l],nums[i]
-                    l += 1
+        l,r,i = 0,len(nums)-1,0
+        while (i <= r):
+            if (nums[i] == 0):
+                nums[i],nums[l] = nums[l],nums[i]
+                l += 1
+            elif (nums[i] == 2):
+                nums[i],nums[r] = nums[r],nums[i]
+                r -= 1
+                i -= 1
+            i += 1 
         return nums
         
