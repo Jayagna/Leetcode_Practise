@@ -5,17 +5,19 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
-        count = {}
-        freq = [[] for i in range(len(nums)+1)] 
-
-        for n in nums:
-            count[n] = 1 + count.get(n,0)
-        for n,c in count.items():
-            freq[c].append(n)
-
-        res = []
-        for i in range(len(freq)-1,0,-1):
-            for n in freq[i]:
-                res.append(n)
-                if len(res) == k:
-                    return res        
+        countmap = {}
+        output = []
+        for i in nums:
+            if i in countmap:
+                countmap[i] += 1
+            else:
+                countmap[i] = 1
+        for i in range(k):
+            max_freq, max_key = 0,0
+            for key in countmap:
+                if (countmap[key] > max_freq):
+                    max_freq = countmap[key]
+                    max_key = key
+            output.append(max_key)
+            del countmap[max_key]
+        return output      
