@@ -23,6 +23,5 @@ class Solution(object):
             if nums.count(n) > len(nums)//3:
                 res.append(n)
         return res
-
-        return res    
+   
         
