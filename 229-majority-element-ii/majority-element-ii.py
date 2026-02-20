@@ -4,24 +4,15 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        count  = defaultdict(int)
-
-        for n in nums:
-            count[n] += 1
-
-            if len(count) <= 2:
-                continue
-            
-            new_count  = defaultdict(int)
-            for n,c in count.items():
-                if c>1:
-                    new_count[n] = c-1
-            count = new_count    
+        times = int(len(nums)/3)
+        count = {}
+        for num in nums:
+            count[num] = 1 + count.get(num,0)
 
         res = []
-        for n in count:
-            if nums.count(n) > len(nums)//3:
-                res.append(n)
-        return res
-   
+        for k,v in count.items() : 
+            if v > times:
+                res.append(k)
+
+        return res    
         
