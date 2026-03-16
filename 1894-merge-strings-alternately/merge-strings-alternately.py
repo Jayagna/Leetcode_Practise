@@ -5,21 +5,16 @@ class Solution(object):
         :type word2: str
         :rtype: str
         """
-        w1 , w2 , res = 0,0, ''
-        length = min(len(word1),len(word2))
-        for w1 in range(length):
-            res += word1[w1]
-            res += word2[w2]
-            w2 += 1
-        w1 += 1
-        
-        while (w1 <= len(word1)-1):
-            res += word1[w1]
-            w1 += 1
+        i,j = 0,0
+        result = ""
+        while i < len(word1) and j < len(word2):
+            result += word1[i]
+            result += word2[j]
+            i += 1
+            j += 1
 
-        while (w2 <= len(word2)-1):
-            res += word2[w2]
-            w2 += 1
-        
-        return res
+        result += word1[i:]
+        result += word2[j:]
+
+        return result
         
