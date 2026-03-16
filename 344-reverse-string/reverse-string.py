@@ -6,9 +6,9 @@ class Solution(object):
         """
         l, r = 0 , len(s) - 1
         for l in range((len(s))//2):
-            stored_l = s[l]
+            temp = s[l]
             s[l] = s[r]
-            s[r] = stored_l
+            s[r] = temp
             r -= 1
         return s
         
