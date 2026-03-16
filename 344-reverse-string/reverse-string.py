@@ -4,10 +4,11 @@ class Solution(object):
         :type s: List[str]
         :rtype: None Do not return anything, modify s in-place instead.
         """
-        i, j = 0 , len(s) - 1
-        for n in range((len(s))//2):
-            s[i],s[j] = s[j],s[i]
-            i += 1
-            j -= 1
+        l, r = 0 , len(s) - 1
+        for l in range((len(s))//2):
+            stored_l = s[l]
+            s[l] = s[r]
+            s[r] = stored_l
+            r -= 1
         return s
         
