@@ -6,11 +6,12 @@ class Solution(object):
         :rtype: List[int]
         """
         i,j = 0,len(numbers)-1
-        while i < j:
-            if (numbers[i] + numbers[j]) > target:
-                j -= 1
-            if (numbers[i] + numbers[j]) < target:
-                i += 1
-            if (numbers[i] + numbers[j]) == target:
+        while i<j:
+            sums = numbers[i]+numbers[j]
+            if sums == target:
                 return [i+1,j+1]
+            elif sums < target:
+                i=i+1
+            else:
+                j=j-1
         
