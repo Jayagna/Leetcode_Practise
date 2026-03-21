@@ -8,10 +8,10 @@ class Solution(object):
         cmap = {}  # value -> last index
 
         for i, v in enumerate(nums):
-            if v in cmap:
-                if i - cmap[v] <= k:
-                    return True
-            cmap[v] = i  # update last seen index
+            if v in cmap and i - cmap[v] <= k:
+                return True
+            else:
+                cmap[v] = i
 
         return False
         
