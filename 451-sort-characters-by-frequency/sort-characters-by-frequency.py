@@ -4,7 +4,7 @@ class Solution:
     def frequencySort(self, s: str) -> str:
         freq = Counter(s)
 
-        sort = sorted(freq.items() , key = lambda item: item[1], reverse = True)
+        sort = freq.most_common()
         res = []
         for k,v in sort:
             for i in range(v):
