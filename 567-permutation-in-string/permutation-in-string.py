@@ -1,22 +1,18 @@
-class Solution(object):
-    def checkInclusion(self, s1, s2):
-        """
-        :type s1: str
-        :type s2: str
-        :rtype: bool
-        """
-        count_s1 = {}
-        for i in range(len(s1)):
-            count_s1[s1[i]] = count_s1.get(s1[i], 0) + 1
+class Solution:
+    def checkInclusion(self, s1: str, s2: str) -> bool:
+        freq1 = [0]*26
 
-        for l in range(len(s2) - len(s1) + 1):
-            count_s2 = {}
-
-            for i in range(l, l + len(s1)):
-                count_s2[s2[i]] = count_s2.get(s2[i], 0) + 1
-
-            if count_s1 == count_s2:
-                return True
-
-        return False
+        if len(s1) > len(s2):
+            return False
         
+        for s in s1:
+            freq1[ord(s)-ord('a')] += 1
+        
+        for s in range(len(s2)-len(s1)+1):
+            freq2 = [0]*26
+            for j in range(s,s+len(s1)):
+                freq2[ord(s2[j])-ord('a')] += 1
+
+            if freq1 == freq2:
+                return True
+        return False
