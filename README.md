@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Jayagna/Leetcode_Practise/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Jayagna/Leetcode_Practise/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/Jayagna/Leetcode_Practise/tree/master/0560-subarray-sum-equals-k) |
+| [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/Jayagna/Leetcode_Practise/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
 ## Queue
 |  |
 | ------- |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Jayagna/Leetcode_Practise/tree/master/0162-find-peak-element) |
+## Greedy
+|  |
+| ------- |
+| [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/Jayagna/Leetcode_Practise/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/Jayagna/Leetcode_Practise/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
 <!---LeetCode Topics End-->
