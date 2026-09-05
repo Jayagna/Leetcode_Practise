@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Jayagna/Leetcode_Practise/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Jayagna/Leetcode_Practise/tree/master/0041-first-missing-positive) |
 | [0162-find-peak-element](https://github.com/Jayagna/Leetcode_Practise/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jayagna/Leetcode_Practise/tree/master/0215-kth-largest-element-in-an-array) |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Jayagna/Leetcode_Practise/tree/master/0295-find-median-from-data-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Jayagna/Leetcode_Practise/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
