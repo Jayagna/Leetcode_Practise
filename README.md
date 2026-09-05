@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Jayagna/Leetcode_Practise/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jayagna/Leetcode_Practise/tree/master/0079-word-search) |
 | [0162-find-peak-element](https://github.com/Jayagna/Leetcode_Practise/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/Jayagna/Leetcode_Practise/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jayagna/Leetcode_Practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Jayagna/Leetcode_Practise/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Jayagna/Leetcode_Practise/tree/master/0239-sliding-window-maximum) |
@@ -148,12 +149,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Jayagna/Leetcode_Practise/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Jayagna/Leetcode_Practise/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Jayagna/Leetcode_Practise/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Jayagna/Leetcode_Practise/tree/master/0200-number-of-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Jayagna/Leetcode_Practise/tree/master/0131-palindrome-partitioning) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Jayagna/Leetcode_Practise/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Jayagna/Leetcode_Practise/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
