@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Jayagna/Leetcode_Practise/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Jayagna/Leetcode_Practise/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/Jayagna/Leetcode_Practise/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/Jayagna/Leetcode_Practise/tree/master/0994-rotting-oranges) |
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/Jayagna/Leetcode_Practise/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
 ## Queue
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Jayagna/Leetcode_Practise/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Jayagna/Leetcode_Practise/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Jayagna/Leetcode_Practise/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Jayagna/Leetcode_Practise/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Jayagna/Leetcode_Practise/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
