@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Jayagna/Leetcode_Practise/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Jayagna/Leetcode_Practise/tree/master/0079-word-search) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Jayagna/Leetcode_Practise/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Sliding Window
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Jayagna/Leetcode_Practise/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Jayagna/Leetcode_Practise/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Jayagna/Leetcode_Practise/tree/master/0041-first-missing-positive) |
+| [0079-word-search](https://github.com/Jayagna/Leetcode_Practise/tree/master/0079-word-search) |
 | [0162-find-peak-element](https://github.com/Jayagna/Leetcode_Practise/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jayagna/Leetcode_Practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Jayagna/Leetcode_Practise/tree/master/0219-contains-duplicate-ii) |
@@ -134,4 +136,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Jayagna/Leetcode_Practise/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Jayagna/Leetcode_Practise/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/Jayagna/Leetcode_Practise/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Jayagna/Leetcode_Practise/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Jayagna/Leetcode_Practise/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
