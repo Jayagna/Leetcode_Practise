@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Jayagna/Leetcode_Practise/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Jayagna/Leetcode_Practise/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Jayagna/Leetcode_Practise/tree/master/0041-first-missing-positive) |
+| [0078-subsets](https://github.com/Jayagna/Leetcode_Practise/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jayagna/Leetcode_Practise/tree/master/0079-word-search) |
 | [0162-find-peak-element](https://github.com/Jayagna/Leetcode_Practise/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jayagna/Leetcode_Practise/tree/master/0215-kth-largest-element-in-an-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Jayagna/Leetcode_Practise/tree/master/0078-subsets) |
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/Jayagna/Leetcode_Practise/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
 ## Divide and Conquer
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Jayagna/Leetcode_Practise/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Jayagna/Leetcode_Practise/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Jayagna/Leetcode_Practise/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jayagna/Leetcode_Practise/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
