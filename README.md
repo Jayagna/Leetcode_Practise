@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Jayagna/Leetcode_Practise/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Jayagna/Leetcode_Practise/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/Jayagna/Leetcode_Practise/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/Jayagna/Leetcode_Practise/tree/master/0139-word-break) |
 | [0219-contains-duplicate-ii](https://github.com/Jayagna/Leetcode_Practise/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Jayagna/Leetcode_Practise/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Jayagna/Leetcode_Practise/tree/master/0621-task-scheduler) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Jayagna/Leetcode_Practise/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Jayagna/Leetcode_Practise/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Jayagna/Leetcode_Practise/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Jayagna/Leetcode_Practise/tree/master/0139-word-break) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Jayagna/Leetcode_Practise/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Sliding Window
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Jayagna/Leetcode_Practise/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Jayagna/Leetcode_Practise/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jayagna/Leetcode_Practise/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/Jayagna/Leetcode_Practise/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/Jayagna/Leetcode_Practise/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Jayagna/Leetcode_Practise/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jayagna/Leetcode_Practise/tree/master/0215-kth-largest-element-in-an-array) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Jayagna/Leetcode_Practise/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Jayagna/Leetcode_Practise/tree/master/0139-word-break) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -184,4 +188,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Jayagna/Leetcode_Practise/tree/master/0210-course-schedule-ii) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Jayagna/Leetcode_Practise/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Jayagna/Leetcode_Practise/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Jayagna/Leetcode_Practise/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
