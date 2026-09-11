@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Jayagna/Leetcode_Practise/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Jayagna/Leetcode_Practise/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Jayagna/Leetcode_Practise/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Jayagna/Leetcode_Practise/tree/master/0131-palindrome-partitioning) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Jayagna/Leetcode_Practise/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Jayagna/Leetcode_Practise/tree/master/0682-baseball-game) |
 | [0895-maximum-frequency-stack](https://github.com/Jayagna/Leetcode_Practise/tree/master/0895-maximum-frequency-stack) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Jayagna/Leetcode_Practise/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Jayagna/Leetcode_Practise/tree/master/0682-baseball-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Jayagna/Leetcode_Practise/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
