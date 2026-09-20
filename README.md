@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Jayagna/Leetcode_Practise/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Jayagna/Leetcode_Practise/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Jayagna/Leetcode_Practise/tree/master/0139-word-break) |
+| [0394-decode-string](https://github.com/Jayagna/Leetcode_Practise/tree/master/0394-decode-string) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Jayagna/Leetcode_Practise/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Sliding Window
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jayagna/Leetcode_Practise/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/Jayagna/Leetcode_Practise/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/Jayagna/Leetcode_Practise/tree/master/0682-baseball-game) |
 | [0895-maximum-frequency-stack](https://github.com/Jayagna/Leetcode_Practise/tree/master/0895-maximum-frequency-stack) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Jayagna/Leetcode_Practise/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jayagna/Leetcode_Practise/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Jayagna/Leetcode_Practise/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
