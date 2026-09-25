@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jayagna/Leetcode_Practise/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Jayagna/Leetcode_Practise/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Jayagna/Leetcode_Practise/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Jayagna/Leetcode_Practise/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/Jayagna/Leetcode_Practise/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Jayagna/Leetcode_Practise/tree/master/0139-word-break) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jayagna/Leetcode_Practise/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Jayagna/Leetcode_Practise/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Jayagna/Leetcode_Practise/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Jayagna/Leetcode_Practise/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Jayagna/Leetcode_Practise/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Jayagna/Leetcode_Practise/tree/master/0131-palindrome-partitioning) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Jayagna/Leetcode_Practise/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Jayagna/Leetcode_Practise/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Jayagna/Leetcode_Practise/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Jayagna/Leetcode_Practise/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Jayagna/Leetcode_Practise/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jayagna/Leetcode_Practise/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Jayagna/Leetcode_Practise/tree/master/0139-word-break) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Jayagna/Leetcode_Practise/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jayagna/Leetcode_Practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Jayagna/Leetcode_Practise/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jayagna/Leetcode_Practise/tree/master/0242-valid-anagram) |
