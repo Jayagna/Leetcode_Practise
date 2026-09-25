@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Jayagna/Leetcode_Practise/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/Jayagna/Leetcode_Practise/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Jayagna/Leetcode_Practise/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Jayagna/Leetcode_Practise/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Jayagna/Leetcode_Practise/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Jayagna/Leetcode_Practise/tree/master/0621-task-scheduler) |
 | [0895-maximum-frequency-stack](https://github.com/Jayagna/Leetcode_Practise/tree/master/0895-maximum-frequency-stack) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Jayagna/Leetcode_Practise/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Jayagna/Leetcode_Practise/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Jayagna/Leetcode_Practise/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/Jayagna/Leetcode_Practise/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/Jayagna/Leetcode_Practise/tree/master/0394-decode-string) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Jayagna/Leetcode_Practise/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Sliding Window
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jayagna/Leetcode_Practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Jayagna/Leetcode_Practise/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Jayagna/Leetcode_Practise/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Jayagna/Leetcode_Practise/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/Jayagna/Leetcode_Practise/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/Jayagna/Leetcode_Practise/tree/master/0973-k-closest-points-to-origin) |
