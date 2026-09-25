@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Jayagna/Leetcode_Practise/tree/master/0682-baseball-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Jayagna/Leetcode_Practise/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Jayagna/Leetcode_Practise/tree/master/0994-rotting-oranges) |
+| [1929-concatenation-of-array](https://github.com/Jayagna/Leetcode_Practise/tree/master/1929-concatenation-of-array) |
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/Jayagna/Leetcode_Practise/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
 ## Queue
 |  |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Jayagna/Leetcode_Practise/tree/master/0682-baseball-game) |
+| [1929-concatenation-of-array](https://github.com/Jayagna/Leetcode_Practise/tree/master/1929-concatenation-of-array) |
 ## Bracket Sequences
 |  |
 | ------- |
