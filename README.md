@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Jayagna/Leetcode_Practise/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Jayagna/Leetcode_Practise/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Jayagna/Leetcode_Practise/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/Jayagna/Leetcode_Practise/tree/master/0133-clone-graph) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Jayagna/Leetcode_Practise/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Jayagna/Leetcode_Practise/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Jayagna/Leetcode_Practise/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Jayagna/Leetcode_Practise/tree/master/0041-first-missing-positive) |
