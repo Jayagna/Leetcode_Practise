@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Jayagna/Leetcode_Practise/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/Jayagna/Leetcode_Practise/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Jayagna/Leetcode_Practise/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Jayagna/Leetcode_Practise/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Jayagna/Leetcode_Practise/tree/master/0139-word-break) |
 ## Breadth-First Search
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Jayagna/Leetcode_Practise/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Jayagna/Leetcode_Practise/tree/master/0139-word-break) |
 ## Brute-Force Search
 |  |
