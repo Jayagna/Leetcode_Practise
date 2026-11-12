@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Jayagna/Leetcode_Practise/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Jayagna/Leetcode_Practise/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Jayagna/Leetcode_Practise/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Jayagna/Leetcode_Practise/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Jayagna/Leetcode_Practise/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Jayagna/Leetcode_Practise/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Jayagna/Leetcode_Practise/tree/master/0169-majority-element) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Jayagna/Leetcode_Practise/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Jayagna/Leetcode_Practise/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jayagna/Leetcode_Practise/tree/master/0079-word-search) |
+| [0128-longest-consecutive-sequence](https://github.com/Jayagna/Leetcode_Practise/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Jayagna/Leetcode_Practise/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/Jayagna/Leetcode_Practise/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Jayagna/Leetcode_Practise/tree/master/0169-majority-element) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Jayagna/Leetcode_Practise/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Jayagna/Leetcode_Practise/tree/master/0200-number-of-islands) |
 ## Graph Theory
 |  |
