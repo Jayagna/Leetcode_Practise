@@ -4,4 +4,10 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        return not len(set(nums)) == len(nums)
+        numset = set()
+        for num in nums:
+            if num in numset:
+                return True
+            else:
+                numset.add(num)
+        return False
