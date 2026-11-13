@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Jayagna/Leetcode_Practise/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Jayagna/Leetcode_Practise/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Jayagna/Leetcode_Practise/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Jayagna/Leetcode_Practise/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Jayagna/Leetcode_Practise/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Jayagna/Leetcode_Practise/tree/master/0621-task-scheduler) |
 | [0895-maximum-frequency-stack](https://github.com/Jayagna/Leetcode_Practise/tree/master/0895-maximum-frequency-stack) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Jayagna/Leetcode_Practise/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Jayagna/Leetcode_Practise/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Jayagna/Leetcode_Practise/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Jayagna/Leetcode_Practise/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Jayagna/Leetcode_Practise/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Jayagna/Leetcode_Practise/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/Jayagna/Leetcode_Practise/tree/master/0682-baseball-game) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Jayagna/Leetcode_Practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Jayagna/Leetcode_Practise/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Jayagna/Leetcode_Practise/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Jayagna/Leetcode_Practise/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Jayagna/Leetcode_Practise/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Jayagna/Leetcode_Practise/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Jayagna/Leetcode_Practise/tree/master/0973-k-closest-points-to-origin) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Jayagna/Leetcode_Practise/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jayagna/Leetcode_Practise/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Jayagna/Leetcode_Practise/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Jayagna/Leetcode_Practise/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
@@ -143,12 +147,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Jayagna/Leetcode_Practise/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jayagna/Leetcode_Practise/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Jayagna/Leetcode_Practise/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Jayagna/Leetcode_Practise/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Jayagna/Leetcode_Practise/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/Jayagna/Leetcode_Practise/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jayagna/Leetcode_Practise/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Jayagna/Leetcode_Practise/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Jayagna/Leetcode_Practise/tree/master/0973-k-closest-points-to-origin) |
 ## Math
 |  |
@@ -167,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Jayagna/Leetcode_Practise/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Jayagna/Leetcode_Practise/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Jayagna/Leetcode_Practise/tree/master/0621-task-scheduler) |
 ## Two Pointers
 |  |
@@ -270,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Jayagna/Leetcode_Practise/tree/master/0169-majority-element) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Jayagna/Leetcode_Practise/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
