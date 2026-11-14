@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jayagna/Leetcode_Practise/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Jayagna/Leetcode_Practise/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Jayagna/Leetcode_Practise/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Jayagna/Leetcode_Practise/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Jayagna/Leetcode_Practise/tree/master/0027-remove-element) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Jayagna/Leetcode_Practise/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/Jayagna/Leetcode_Practise/tree/master/0621-task-scheduler) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Jayagna/Leetcode_Practise/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/Jayagna/Leetcode_Practise/tree/master/2835-minimum-operations-to-form-subsequence-with-target-sum) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Jayagna/Leetcode_Practise/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Jayagna/Leetcode_Practise/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Jayagna/Leetcode_Practise/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Jayagna/Leetcode_Practise/tree/master/0125-valid-palindrome) |
