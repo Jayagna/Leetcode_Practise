@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Jayagna/Leetcode_Practise/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Jayagna/Leetcode_Practise/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Jayagna/Leetcode_Practise/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/Jayagna/Leetcode_Practise/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Jayagna/Leetcode_Practise/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Jayagna/Leetcode_Practise/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Jayagna/Leetcode_Practise/tree/master/0242-valid-anagram) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Jayagna/Leetcode_Practise/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Jayagna/Leetcode_Practise/tree/master/0125-valid-palindrome) |
 | [0295-find-median-from-data-stream](https://github.com/Jayagna/Leetcode_Practise/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
